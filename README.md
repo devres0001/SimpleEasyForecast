@@ -28,10 +28,6 @@ Founded in 2018. Over the past months, we have developed over 10 mobile and web 
 
 Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 
-
-## Authors
- - *Initial work* - [MDTaps](https://github.com/Renarasup)
-
 ## License
 
 The contents of this repository is licensed under the https://github.com/devres0001/SimpleEasyForecast/blob/master/LICENSE
